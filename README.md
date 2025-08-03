@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Waqas Jamal Siddiqui</h1>
-<h3 align="center">Software Engineering undergrad | Building smart interfaces with React, JavaScript & Python | Exploring ML & cloud</h3>
+<h3 align="center">Software Engineering undergrad | Building cool stuff with React, JavaScript & Python | ML & Cloud explorer | Respawning on GitHub—old account didn’t make it</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wwwaqas2003&label=Profile%20views&color=0e75b6&style=flat" alt="wwwaqas2003" /> </p>
 
